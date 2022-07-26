@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on Design and Development
-- 📫 How to reach me @sugaulee
+- 📫 You can reach me @sugaulee
 
 <!---
 sugaulee/sugaulee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
